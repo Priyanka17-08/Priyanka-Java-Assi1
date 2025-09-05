@@ -8,12 +8,12 @@ It demonstrates the use of **Java OOP concepts, control structures, arrays, stri
 ---
 
 ## 📌 Features  
-✔ **Create a new account** with details (Name, Email, Phone, Initial Deposit)  
-✔ **Deposit money** into an account  
-✔ **Withdraw money** with balance validation  
-✔ **View account details** (Account Number, Holder Name, Balance, Email, Phone)  
-✔ **Update contact details** (Email, Phone Number)  
-✔ **Input validation** (non-empty name, valid email, valid phone number, positive numeric deposits/withdrawals)  
+ **Create a new account** with details (Name, Email, Phone, Initial Deposit)  
+ **Deposit money** into an account  
+ **Withdraw money** with balance validation  
+ **View account details** (Account Number, Holder Name, Balance, Email, Phone)  
+ **Update contact details** (Email, Phone Number)  
+ **Input validation** (non-empty name, valid email, valid phone number, positive numeric deposits/withdrawals)  
 
 ---
 
