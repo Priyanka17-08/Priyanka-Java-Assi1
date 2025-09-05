@@ -19,7 +19,7 @@ It demonstrates the use of **Java OOP concepts, control structures, arrays, stri
 ## 🛠 Tech Stack  
 
 - **Language:** Java  
-- **IDE:** VS Code / IntelliJ IDEA  
+- **IDE:** VS Code 
 - **Concepts Used:**  
   - Object-Oriented Programming (OOP)  
   - Encapsulation  
@@ -43,7 +43,11 @@ It demonstrates the use of **Java OOP concepts, control structures, arrays, stri
 Enter your choice: 1
 
 Enter account holder name: Priyanka
+
 Enter initial deposit amount: 10000
+
 Enter email address: priyanka170306@gmail.com
+
 Enter phone number: 7703533245
+
 Account created successfully with Account Number: 1001
