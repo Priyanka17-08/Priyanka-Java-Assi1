@@ -37,7 +37,9 @@ It demonstrates the use of **Java OOP concepts, control structures, arrays, stri
 4. View account details
 5. Update contact details
 6. Exit
-==============================
+
+
+
 Enter your choice: 1
 Enter account holder name: Priyanka
 Enter initial deposit amount: 10000
