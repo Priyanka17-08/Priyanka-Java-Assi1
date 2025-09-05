@@ -1,6 +1,7 @@
 ## Priyanka-Java-BankingApp  
 ## 🏦 Banking Application for Account Management  
-DESCRIPTION:
+**DESCRIPTION:**
+
 A **simple Banking Application** written in **Java** that allows users to manage their bank accounts.  
 It demonstrates the use of **Java OOP concepts, control structures, arrays, strings, and input validation.**
 
